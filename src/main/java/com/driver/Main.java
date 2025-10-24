@@ -21,7 +21,6 @@ public class Main {
         int product2 = p.product(3 , 4 ,5);
         double product3 = p.product(3.14 , 2.12);
 
-        System.out.println(product1+"\n"+product2+"\n"+product3);
 
     }
 
