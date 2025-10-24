@@ -17,9 +17,9 @@ public class Main {
 
     public static void main(String[] args){
         Product p = new Product();
-        int product1 = p.product(3 , 4);
-        int product2 = p.product(3 , 4 ,5);
-        double product3 = p.product(3.14 , 2.12);
+         p.product(3 , 4);
+         p.product(3 , 4 ,5);
+         p.product(3.14 , 2.12);
 
     }
 }
